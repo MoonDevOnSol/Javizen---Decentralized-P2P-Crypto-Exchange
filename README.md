@@ -1,52 +1,81 @@
-# Javizen---Decentralized-P2P-Crypto-Exchange
-Sure! Here's a powerful `README.md` for your crypto exchange:
-
 ---
 
-# Javizen - Decentralized P2P Crypto Exchange
+# Javizen CEX – Centralized Crypto Exchange Script
 
 **Website:** [https://javizen.com](https://javizen.com)  
 **Live Demo:** [https://demo.javizen.com](https://demo.javizen.com)
 
-Welcome to **Javizen**, the next-generation decentralized peer-to-peer crypto exchange built to empower users with full control, speed, and privacy. Whether you're buying or selling cryptocurrency, Javizen provides a seamless, secure, and trustless platform for global crypto trades.
+Welcome to **Javizen CEX**, a powerful, scalable, and fully customizable centralized exchange solution designed for entrepreneurs and crypto startups who want to launch their own exchange platform with professional-grade features and enterprise-level security.
 
-## Features
+Whether you're launching your own exchange or expanding your crypto ecosystem, Javizen offers everything you need—right out of the box.
 
-- **Decentralized P2P Trading**  
-  No intermediaries. Direct peer-to-peer transactions with built-in safety and escrow.
+---
 
-- **Escrow Protection**  
-  Secure your trades with our automated escrow system until the deal is confirmed by both parties.
+## Core Features
 
-- **Multi-Crypto Support**  
-  Buy and sell BTC, ETH, USDT, SOL, and more with ease.
+### **1. Swap (Convert)**
+Offer users fast and seamless crypto-to-crypto conversions without the need for an order book. Ideal for beginners and instant exchanges.
 
-- **KYC Optional**  
-  Privacy-first trading. KYC is only required for large-volume or flagged transactions.
+### **2. Launchpad (ICO/IEO)**
+Empower projects to raise capital directly through your platform with integrated Launchpad functionality. Manage ICOs and IEOs with full transparency, tiered allocations, and investor dashboards.
 
-- **Trade Chat System**  
-  Communicate with buyers/sellers in real-time within a safe, monitored environment.
+### **3. Staking (Invest & Earn)**
+Let users stake popular tokens and earn daily, weekly, or monthly rewards. Fully automated staking system with flexible lock periods and APYs.
 
-- **Mobile & Desktop Friendly**  
-  Fully responsive design so you can trade anytime, anywhere.
+### **4. Spot Exchange**
+Traditional order book trading with limit, market, and stop-limit orders. Real-time price charts, trading pairs, and trade history.
 
-- **Fast & Intuitive Interface**  
-  Sleek UI built for speed and simplicity.
+### **5. Market Overview**
+Live market data, price movements, volumes, and analytics to help users make informed trading decisions.
 
-## Get Started
+### **6. Wallet Management**
+Secure, multi-asset crypto wallet system. Users can deposit, withdraw, and track their balances with built-in 2FA and security logs.
 
-1. Visit [https://javizen.com](https://javizen.com)
-2. Explore the platform or try our [Live Demo](https://demo.javizen.com)
-3. Set up your account and wallet
-4. Start buying and selling crypto with real users!
+### **7. Futures Trading**
+Offer leveraged trading with advanced futures contracts. Built for professional traders with margin management, real-time liquidation engines, and PnL tracking.
 
-## Interested in Buying or Investing?
+---
 
-If you want to **buy the exchange** or discuss partnership/investment opportunities,  
-**DM [@roshan_zamir](https://t.me/roshan_zamir) on Telegram.**
+## Why Javizen?
 
-## Developed with Purpose
+- **Enterprise-Grade Security**  
+  Secure authentication, encryption, cold wallet integrations, and DDoS protection.
 
-Javizen was built for a future where **finance is free, borderless, and fair**. We believe in giving the power back to the people through decentralized tools and technology.
+- **Scalable Architecture**  
+  Built with high performance and uptime in mind—ready to scale as your user base grows.
+
+- **Responsive Admin Panel**  
+  Full backend control with rich analytics, user management, transaction tracking, KYC verification, and fee configurations.
+
+- **Multi-Device Ready**  
+  Seamless experience across mobile, tablet, and desktop.
+
+- **Fiat Gateway Ready**  
+  Add payment processors and banks to enable crypto-fiat deposits and withdrawals.
+
+- **Developer-Friendly API**  
+  Complete RESTful APIs for mobile apps and third-party integrations.
+
+---
+
+## Live Demo
+
+Test the power of Javizen in real-time:  
+**[https://demo.javizen.com](https://demo.javizen.com)**
+
+---
+
+## Want to Buy the Exchange Script?
+
+**Contact:**  
+Telegram: [@roshan_zamir](https://t.me/roshan_zamir)
+
+Whether you’re looking to own the full source code or need a white-label solution, we’re here to help you go live fast and professionally.
+
+---
+
+## License
+
+This software is proprietary and licensed. Distribution or resale without authorization is strictly prohibited.
 
 ---
