@@ -1,5 +1,3 @@
----
-
 # Javizen CEX – Centralized Crypto Exchange Script
 
 **Website:** [https://javizen.com](https://javizen.com)  
