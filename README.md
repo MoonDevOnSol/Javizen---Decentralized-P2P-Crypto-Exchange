@@ -66,7 +66,7 @@ Test the power of Javizen in real-time:
 ## Want to Buy the Exchange Script?
 
 **Contact:**  
-Telegram: [@Javizenco](https://t.me/Javizenco)
+Telegram: [@MoonDevOnSol](https://t.me/MoonDevOnSol)
 
 Whether you’re looking to own the full source code or need a white-label solution, we’re here to help you go live fast and professionally.
 
